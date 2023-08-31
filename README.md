@@ -192,6 +192,6 @@ At last, after successfully submitting a pull request you can view your work liv
   <img align="center" src="https://contrib.rocks/image?max=100&repo=ssitvit/Code-Canvas" />
 </a> 
 <br><br>
-Thank you to all the amazing contributors who have made this project possible!!💝
+Thank you to all the amazing contributors who have made this project possible..................
 
 
